@@ -1,0 +1,7 @@
+{
+  "name": "agrotechdef",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
